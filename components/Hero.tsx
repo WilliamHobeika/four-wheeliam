@@ -14,9 +14,11 @@ const Hero = () => {
   return (
     <div className="hero">
       <div className="flex-1 pt-24 padding-x">
-        <h1 className="hero__title">Find, Book or Rent a car ___ quickly and easily!</h1>
+        <h1 className="hero__title">
+          Find, check out or view a car ___ quickly and easily!
+        </h1>
         <p className="hero__subtitle">
-          Streamline your car rental experience with our effortless booking experience
+          Streamline your car showcase experience with our exquisite application{" "}
         </p>
         <CustomButton
           title="Explore Cars"
